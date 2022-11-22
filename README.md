@@ -61,6 +61,10 @@ AUTH_USERS COMMANDS:
   - `menu` >> `settings` >>  `restart`
   
 # Deploy (🌟Star the repo) 
+
+Deploy your own bot on `Cyclic`
+
+[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/)
   
 Deploy your own bot on `heroku`
 
